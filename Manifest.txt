@@ -1,7 +1,8 @@
-History.txt
+CHANGELOG.md
 Manifest.txt
-README.txt
+README.md
 Rakefile
-bin/widen
+UnicodeData.txt
 lib/widen.rb
+lib/widen.rb.erb
 test/test_widen.rb
