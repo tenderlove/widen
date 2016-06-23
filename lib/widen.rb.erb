@@ -4,4 +4,6 @@ class String
   WIDE = <%= wide.dump %>
   def widen; tr(NARROW, WIDE); end
   def narrowen; tr(WIDE, NARROW); end
+  def widen!; tr!(NARROW, WIDE); end
+  def narrowen!; tr!(WIDE, NARROW); end
 end
