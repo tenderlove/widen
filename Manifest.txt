@@ -1,0 +1,7 @@
+History.txt
+Manifest.txt
+README.txt
+Rakefile
+bin/widen
+lib/widen.rb
+test/test_widen.rb
