@@ -18,11 +18,11 @@ We already have `String#upcase`, `String#downcase`.  Now you can have
 'ＡＢＣＤＥ'.narrowen => 'abcde'
 ```
 
-== INSTALL:
+## INSTALL:
 
 * gem install widen
 
-== LICENSE:
+## LICENSE:
 
 (The MIT License)
 
